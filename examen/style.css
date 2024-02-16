@@ -1,0 +1,28 @@
+.botonAuto{
+    .botonAuto{
+        height: 40px ;
+        width: 40px;
+        border-radius: 50%
+        border: 1px solid black
+        border: 1px solid rgb (0,0,0)
+    }
+}
+botones{
+    .botones{
+        display: flex ;
+        justify-content : space-evenly
+    }
+}
+ venta{
+     .venta{
+         display: flex ;
+         justify-content: space-evenly
+         padding: 5%
+         margin: 5%
+     }
+ }
+
+    
+    
+    
+    
